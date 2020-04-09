@@ -1,0 +1,12 @@
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.AssemblyInfoInputs.cache
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.AssemblyInfo.cs
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Payspace.Assesment.Calculator.StaticWebAssets.Manifest.cache
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Payspace.Assesment.Calculator.StaticWebAssets.xml
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\bin\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.deps.json
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\bin\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.dll
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\bin\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.pdb
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.dll
+C:\Users\NeilDW\source\assesment\Payspace.Assesment.TaxCalculator\Payspace.Assesment.Calculator\obj\Debug\netcoreapp3.1\Payspace.Assesment.Calculator.pdb
